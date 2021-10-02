@@ -22,3 +22,8 @@ Este programa está hecho en JavaScript, así que necesitarás un navegador para
   >Para ello puedes descargar el código o hacer `git clone` del mismo. Luego abrirías _index.html_.
 
 - Entrar en el [siguiente enlace](https://dr4fty.github.io/CifradorCesar/index.html).
+
+## Advertencias
+
+Por motivos desconocidos del navegador, el poner más de una coma en el campo de introducir frase, hace que el texto de borre en Firefox para Android.
+En otros navegadores para Android no he encontrado dicho problema. En PC funciona perfectamente.
