@@ -71,6 +71,14 @@ textarea{
 input{
     width: 360px;
 }
+@media (max-width: 500px){
+    textarea{
+        width: 260px;
+    }
+    input{
+        width: 280px;
+    }
+}
 button{
     background-color: #6BA368;
     font-weight: 600;
