@@ -8,6 +8,10 @@ El alfabeto que tomará de base este programa es el español, así que si estás
 
 Los caracteres que podrá codificar este programa son: a, b, c, d, e, f, g, h, i, j, k, l, m, n, ñ, o, p, q, r, s, t, u, v, w, x, y, z, á, é, í, ó, ú.
 
+Otros caracteres como: puntos, comas, espacios y números los reconocerá pero no los cifrará.
+
+Cualquier otro caracter fuera de eso desaparecerá a la hora de cifrar/descifrar el mensaje.
+
 ## Licencia de uso
 
 Este programa utiliza una licencia GPL 3.0, la cual permite editar y redistribuir el código sin fines comerciales, acreditando siempre al autor original.
